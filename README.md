@@ -1,4 +1,3 @@
-# jellyfin
 <html>
   <body>
   <h1>Jellyfin</h1>
